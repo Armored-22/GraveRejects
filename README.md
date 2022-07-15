@@ -4,6 +4,8 @@ Up-to-date server &amp; mod file settings
 <br>
 *Just want to clarify the first 8 settings in "ServerGameSettings.json" as the server host assigns a number with their config editor.*
 ```
+-Lines 2-9 in "ServerGameSettings.json"
+
   "GameModeType": "1",
   "1" = "PvP"
   
