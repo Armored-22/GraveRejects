@@ -1,9 +1,10 @@
 # GraveRejects
 up-to-date server &amp; mod settings (also acts as a backup)
 
+Change Log
 ============================================================
 
-Change-log (Update 1.1.0)
+(Update 1.1.0)
 
 - Castle Blood Drain
 
