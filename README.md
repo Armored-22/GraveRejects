@@ -2,7 +2,7 @@
 Up-to-date server &amp; mod file settings
 <br>
 <br>
-*Just want to clarify the first 8 settings in "ServerGameSettings.json" as the server host assigns a number with their config editor.*
+*Just want to clarify the first 8 settings in "ServerGameSettings.json" as the host assigns a number with their config editor.*
 ```
 -Lines 2-9 in "ServerGameSettings.json"
 
