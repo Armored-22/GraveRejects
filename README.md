@@ -2,6 +2,7 @@
 up-to-date server &amp; mod settings (also acts as a backup)
 
 ============================================================
+
 Change-log (Update 1.1.0)
 
 - Castle Blood Drain
@@ -19,4 +20,5 @@ For every 1 hour offline, you will lose 0.024% in all masteries
 Changed from 0.060%
 For every 24 hours offline, you will lose 0.576% in all masteries 
 Changed from 1.44%
+
 ============================================================
