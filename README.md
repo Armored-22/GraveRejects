@@ -1,5 +1,36 @@
 # GraveRejects
 Up-to-date server &amp; mod file settings
+<br>
+<br>
+*To clarify the first 8 game settings as the server host assigns a number with their config editor.*
+<br>
+<br>
+```
+  "GameModeType": "1",
+  "1" = "PvP"
+  
+  "CastleDamageMode": "2",
+  "2" = "TimeRestricted"
+  
+  "SiegeWeaponHealth": "2",
+  "2" = "Normal"
+  
+  "PlayerDamageMode": "0",
+  "0" = Always 
+  
+  "CastleHeartDamageMode": "0",
+   "0" = "CanBeDestroyedOnlyWhenDecaying"
+   
+  "PvPProtectionMode": "3",
+  "3" = "Medium"
+  
+  "DeathContainerPermission": "0",
+  "0" = "Anyone"
+  
+  "RelicSpawnType": "1",
+  "1" = "Plentiful"
+  ```
+<br>
 
 **Change Log;**
 
