@@ -1,7 +1,7 @@
 # GraveRejects
 up-to-date server &amp; mod settings (also acts as a backup)
 
-**Change Log**
+**Change Log;**
 
 
 Update 1.1.0
