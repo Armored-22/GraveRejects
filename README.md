@@ -4,7 +4,21 @@ Up-to-date server &amp; mod file settings
 <br>
 
 **Change Log;**
+<br>
+# Update 1.2.1
 
+**Castle Blood Drain**<br>
+*The rate in which your castle drains its blood has been increased from 3.5 to 3.75*<br>
+
+**Castle Raiding**<br>
+*Due to the Raid Window starting outside of the server settings, I will change this setting manually for now*<br>
+*The setting may state "never" this is only so that the server doesn't do anything unexpected until I can do more testing*<br>
+<br>
+**New Player PvP Protection**<br>
+*This was increased from 1 hour to 2 hours.*<br>
+<br>
+**Settings Corrected**<br>
+*All settings affected by the config editor have been fixed*
 
 # Update 1.1.0
 
