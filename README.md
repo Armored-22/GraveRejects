@@ -2,35 +2,6 @@
 Up-to-date server &amp; mod file settings
 <br>
 <br>
-*Just want to clarify the first 8 settings in "ServerGameSettings.json" as the host assigns a number with their config editor.*
-```
--Lines 2-9 in "ServerGameSettings.json"
-
-  "GameModeType": "1",
-  "1" = "PvP"
-  
-  "CastleDamageMode": "2",
-  "2" = "TimeRestricted"
-  
-  "SiegeWeaponHealth": "2",
-  "2" = "Normal"
-  
-  "PlayerDamageMode": "0",
-  "0" = Always 
-  
-  "CastleHeartDamageMode": "0",
-   "0" = "CanBeDestroyedOnlyWhenDecaying"
-   
-  "PvPProtectionMode": "3",
-  "3" = "Medium"
-  
-  "DeathContainerPermission": "0",
-  "0" = "Anyone"
-  
-  "RelicSpawnType": "1",
-  "1" = "Plentiful"
-  ```
-<br>
 
 **Change Log;**
 
