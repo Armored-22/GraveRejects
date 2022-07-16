@@ -1,12 +1,12 @@
-{
-  "GameModeType": "1",
-  "CastleDamageMode": "2",
-  "SiegeWeaponHealth": "2",
-  "PlayerDamageMode": "0",
-  "CastleHeartDamageMode": "0",
-  "PvPProtectionMode": "3",
-  "DeathContainerPermission": "0",
-  "RelicSpawnType": "1",
+​{
+  "GameModeType": "PvP",
+  "CastleDamageMode": "Never",
+  "SiegeWeaponHealth": "Normal",
+  "PlayerDamageMode": "Always",
+  "CastleHeartDamageMode": "CanBeDestroyedOnlyWhenDecaying",
+  "PvPProtectionMode": "Long",
+  "DeathContainerPermission": "Anyone",
+  "RelicSpawnType": "Plentiful",
   "CanLootEnemyContainers": true,
   "BloodBoundEquipment": true,
   "TeleportBoundItems": false,
@@ -33,12 +33,12 @@
   "BloodDrainModifier": 1,
   "DurabilityDrainModifier": 0.25,
   "GarlicAreaStrengthModifier": 1,
-  "HolyAreaStrengthModifier": 1.0,
+  "HolyAreaStrengthModifier": 1,
   "SilverStrengthModifier": 1,
   "SunDamageModifier": 1,
   "CastleDecayRateModifier": 1,
-  "CastleBloodEssenceDrainModifier": 1.5,
-  "CastleSiegeTimer": 300,
+  "CastleBloodEssenceDrainModifier": 3.75,
+  "CastleSiegeTimer": 420,
   "CastleUnderAttackTimer": 60,
   "AnnounceSiegeWeaponSpawn": true,
   "ShowSiegeWeaponMapIcon": false,
@@ -265,17 +265,17 @@
     "PhysicalPowerModifier": 2,
     "SpellPowerModifier": 1,
     "ResourcePowerModifier": 1,
-    "SiegePowerModifier": 1.0,
+    "SiegePowerModifier": 1,
     "DamageReceivedModifier": 1,
-    "ReviveCancelDelay": 5.0
+    "ReviveCancelDelay": 5
   },
   "UnitStatModifiers_Global": {
     "MaxHealthModifier": 1,
     "PowerModifier": 1
   },
   "UnitStatModifiers_VBlood": {
-    "MaxHealthModifier": 1.0,
-    "PowerModifier": 1.0
+    "MaxHealthModifier": 1,
+    "PowerModifier": 1
   },
   "EquipmentStatModifiers_Global": {
     "MaxEnergyModifier": 1,
@@ -283,11 +283,11 @@
     "ResourceYieldModifier": 1,
     "PhysicalPowerModifier": 1,
     "SpellPowerModifier": 1,
-    "SiegePowerModifier": 1.0,
-    "MovementSpeedModifier": 1.0
+    "SiegePowerModifier": 1,
+    "MovementSpeedModifier": 1
   },
   "CastleStatModifiers_Global": {
-    "TickPeriod": 5.0,
+    "TickPeriod": 5,
     "DamageResistance": 0.0,
     "SafetyBoxLimit": 1,
     "TombLimit": 12,
@@ -371,7 +371,7 @@
     "CastleLimit": 1
   },
   "PlayerInteractionSettings": {
-    "TimeZone": "0",
+    "TimeZone": "Local",
     "VSPlayerWeekdayTime": {
       "StartHour": 0,
       "StartMinute": 0,
@@ -379,9 +379,9 @@
       "EndMinute": 0
     },
     "VSPlayerWeekendTime": {
-      "StartHour": 17,
+      "StartHour": 0,
       "StartMinute": 0,
-      "EndHour": 2,
+      "EndHour": 0,
       "EndMinute": 0
     },
     "VSCastleWeekdayTime": {
