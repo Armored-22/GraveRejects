@@ -1,1 +1,1 @@
-# These are the current LIVE server configuration files.
+# Current 'LIVE' server configuration files.
