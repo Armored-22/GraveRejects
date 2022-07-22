@@ -6,7 +6,7 @@
   "CastleHeartDamageMode": "CanBeSeizedOrDestroyedByPlayers",
   "PvPProtectionMode": "Long",
   "DeathContainerPermission": "Anyone",
-  "RelicSpawnType": "Plentiful",
+  "RelicSpawnType": "Unique",
   "CanLootEnemyContainers": true,
   "BloodBoundEquipment": true,
   "TeleportBoundItems": false,
@@ -243,7 +243,7 @@
         "DefaultUnlocked": false
       }
     ],
-  "UnlockedAchievements": [],
+  "UnlockedAchievements": [560247139],
   "UnlockedResearchs": [
    
    
@@ -385,10 +385,10 @@
       "EndMinute": 0
     },
     "VSCastleWeekdayTime": {
-      "StartHour": 0,
-      "StartMinute": 0,
-      "EndHour": 0,
-      "EndMinute": 0
+      "StartHour": 4,
+      "StartMinute": 30,
+      "EndHour": 4,
+      "EndMinute": 35
     },
     "VSCastleWeekendTime": {
       "StartHour": 10,
