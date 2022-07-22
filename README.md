@@ -2,7 +2,7 @@
 **With up-to-date server &amp; mod files.**
 
 Folders
->1
+> BepInEx/config
 
 
 >2
