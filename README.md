@@ -30,7 +30,7 @@ ___
   > Uses ‘Compulsively Count’ on all nearby stashes with 1 click.<br>
   >  Default keybinding is 'G'
 
-*Mod List*
+**Mod List**
 
   > RPGMods, 
   > By: Kamikaze<br>
@@ -65,7 +65,7 @@ ___
 * **Settings Corrected**
   > All settings affected by the config editor have been fixed
   
-*Mod List*
+**Mod List**
 
   > RPGMods, 
   > By: Kamikaze<br>
@@ -88,7 +88,7 @@ ___
   > For every 24 hours offline, you will lose 0.576% in all masteries<br>
   > *Changed from 1.44%*
 
-*Mod List*
+**Mod List**
 
   > RPGMods, 
   > By: Kamikaze<br>
