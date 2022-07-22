@@ -17,7 +17,7 @@
   "DisableDebugEvents": false,
   "Rcon": {
     "Enabled": false,
-    "Port": BLOCKED,
+    "Port": "BLOCKED",
     "Password": ""
   }
 }
