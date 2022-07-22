@@ -2,10 +2,10 @@
 **With up-to-date server &amp; mod files.**
 
 Folders
-> BepInEx/config: All of the mod configuration files.
+> '**BepInEx/config**': All of the mod configuration files.
 
 
-> **Server Settings**: All of the server configuration files.
+> '**Server Settings**': All of the server configuration files.
 ___
 
 # PTS Update 2.1.0
