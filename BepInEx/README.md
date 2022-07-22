@@ -1,2 +1,2 @@
-# Inside BepinEx main folder.
+# BepinEx main folder.
 # Mod configuration folder.
