@@ -1,7 +1,12 @@
 # Up-to-date Server &amp; Mod files.
 
 **Folders**/*Description*
-> "**BepInEx/config**" *All of the mod configuration files.*
+> "**Assets**" *Random assets for this repository.*
+
+
+
+> "**BepInEx**" *All of the mod configuration files.*
+
 
 
 > "**Server Settings**" *All of the server configuration files.*
