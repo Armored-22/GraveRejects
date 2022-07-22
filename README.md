@@ -14,8 +14,8 @@
 *Files are modified here, then pushed to the server. The settings here may not reflect current Live/PTS settings until the server is updated/restarted.*
 
 [![Join Discord](https://github.com/Armored-22/GraveRejects/blob/main/Assets/join-us-on-discord.png)](https://discord.gg/pTuSasMxR5)<br>
-[![Vivox Enabled](https://github.com/Armored-22/GraveRejects/blob/main/Assets/vivox_enabled.png)](https://unity.com/products/vivox)<br>
-[![Battlemetrics](https://github.com/Armored-22/GraveRejects/blob/main/Assets/gr_battlemetrics.png)](https://www.battlemetrics.com/servers/vrising/15590166)
+[![Battlemetrics](https://github.com/Armored-22/GraveRejects/blob/main/Assets/gr_battlemetrics_small.png)](https://www.battlemetrics.com/servers/vrising/15590166)<br>
+[![Vivox Enabled](https://github.com/Armored-22/GraveRejects/blob/main/Assets/vivox_enabled.png)](https://unity.com/products/vivox)
 ___
 
 # GraveRejects Updates
