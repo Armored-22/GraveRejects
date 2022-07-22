@@ -7,7 +7,7 @@
 
 > "**Server Settings**" *All of the server configuration files.*
 
-*Files are modified here then pushed to server. Settings here may not reflect current Live/PTS settings until server is updated/restarted*
+*Files are modified here, then pushed to the server. The settings here may not reflect current Live/PTS settings until the server is updated/restarted.*
 ___
 
 # PTS Update 2.1.0
