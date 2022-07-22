@@ -64,6 +64,11 @@ ___
 
 * **Settings Corrected**
   > All settings affected by the config editor have been fixed
+  
+*Mod List*
+
+  > RPGMods, 
+  > By: Kamikaze<br>
 ___
 
 # Live Update 1.1.0 
@@ -77,8 +82,13 @@ ___
   > Decay rate when offline will be slightly lower.<br>
   > Changed from 0.001% per 1 minute to 0.001% per 2.5 minutes.
 
-*Example;*<br>
-> For every 1 hour offline, you will lose 0.024% in all masteries<br>
-> *Changed from 0.060%*<br>
-> For every 24 hours offline, you will lose 0.576% in all masteries<br>
-> *Changed from 1.44%*<br>
+  *Example;*<br>
+  > For every 1 hour offline, you will lose 0.024% in all masteries<br>
+  > *Changed from 0.060%*<br>
+  > For every 24 hours offline, you will lose 0.576% in all masteries<br>
+  > *Changed from 1.44%*
+
+*Mod List*
+
+  > RPGMods, 
+  > By: Kamikaze<br>
