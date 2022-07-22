@@ -1,4 +1,6 @@
 # Server Settings
 **Folders**/*Description*
-> "Live" current server configuration files.<br>
+> "Live" current server configuration files.
+
+
 > "PTS" private test server configuration files.
