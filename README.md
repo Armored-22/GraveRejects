@@ -11,7 +11,7 @@ ___
 
 # GraveRejects Updates
 
-## PTS Update 2.1.0
+### PTS Update 2.1.0
 *(07/21/2022)*
 
 * **Notify**
@@ -55,7 +55,7 @@ ___
   > By: Elmegaard
 ___
 
-## Live Update 1.2.1
+### Live Update 1.2.1
 *(07/16/2022)*
 
 * **Castle Blood Drain**
