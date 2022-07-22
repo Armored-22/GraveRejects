@@ -11,7 +11,7 @@ ___
 
 # GraveRejects Updates
 
-## PTS Update 2.1.0
+## PTS Update 2.1.0-pts
 ###### *(07/21/2022)*
 
 * **Notify**
