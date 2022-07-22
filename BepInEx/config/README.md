@@ -1,1 +1,1 @@
-Mod config files.
+# Mod configuration files
