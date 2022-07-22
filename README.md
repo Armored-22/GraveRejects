@@ -1,4 +1,4 @@
-# Up-to-date server &amp; mod files.
+# Up-to-date Server &amp; Mod files.
 
 **Folders**/*Description*
 > "**BepInEx/config**" *All of the mod configuration files.*
