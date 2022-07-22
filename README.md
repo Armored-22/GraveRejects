@@ -1,5 +1,5 @@
 # GraveRejects Updates
-**Up-to-date server &amp; mod files.**
+**With up-to-date server &amp; mod files.**
 ___
 
 # PTS Update 2.1.0
