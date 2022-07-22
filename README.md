@@ -11,8 +11,8 @@ ___
 
 # GraveRejects Updates
 
-###### PTS Update 2.1.0
-*(07/21/2022)*
+## PTS Update 2.1.0
+###### *(07/21/2022)*
 
 * **Notify**
   > Server message when a user connects or disconnects from the server and when a player kills a V Blood boss.
@@ -55,8 +55,8 @@ ___
   > By: Elmegaard
 ___
 
-### Live Update 1.2.1
-*(07/16/2022)*
+## Live Update 1.2.1
+###### *(07/16/2022)*
 
 * **Castle Blood Drain**
   > The rate in which your castle drains its blood has been increased from 3.5 to 3.75*
@@ -80,8 +80,8 @@ ___
   > By: Kamikaze<br>
 ___
 
-### Live Update 1.1.0 
-*(07/15/2022)*
+## Live Update 1.1.0 
+###### *(07/15/2022)*
 
 * **Castle Blood Drain**
   > The rate in which your castle drains its blood has been increased from 0.5 to 1.5<br>
