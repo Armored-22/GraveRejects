@@ -1,5 +1,4 @@
-# GraveRejects Updates
-**With up-to-date server &amp; mod files.**
+# Up-to-date server &amp; mod files.
 
 **Folders**/*Description*
 > "**BepInEx/config**" *All of the mod configuration files.*
@@ -9,6 +8,8 @@
 
 *Files are modified here, then pushed to the server. The settings here may not reflect current Live/PTS settings until the server is updated/restarted.*
 ___
+
+# GraveRejects Updates
 
 # PTS Update 2.1.0
 *(07/21/2022)*
