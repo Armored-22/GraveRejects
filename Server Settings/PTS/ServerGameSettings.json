@@ -1,9 +1,9 @@
 {
   "GameModeType": "PvP",
-  "CastleDamageMode": "Never",
+  "CastleDamageMode": "TimeRestricted",
   "SiegeWeaponHealth": "Normal",
   "PlayerDamageMode": "Always",
-  "CastleHeartDamageMode": "CanBeDestroyedOnlyWhenDecaying",
+  "CastleHeartDamageMode": "CanBeSeizedOrDestroyedByPlayers",
   "PvPProtectionMode": "Long",
   "DeathContainerPermission": "Anyone",
   "RelicSpawnType": "Plentiful",
