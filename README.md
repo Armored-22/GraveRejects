@@ -102,7 +102,9 @@ ___
 
   *Example;*<br>
   > For every 1 hour offline, you will lose 0.024% in all masteries<br>
-  > *Changed from 0.060%*<br>
+  > *Changed from 0.060%*
+
+
   > For every 24 hours offline, you will lose 0.576% in all masteries<br>
   > *Changed from 1.44%*
 
