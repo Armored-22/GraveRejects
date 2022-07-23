@@ -1,4 +1,4 @@
-# Main Mod Folder.
+# Main Mod Folder
 **Folders**/*Description*
 > "config" *Mod configuration files.*
 
