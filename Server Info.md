@@ -1,8 +1,7 @@
 # Grave Rejects 
 
-##### Connection Info
+##### Direct Connection 
 ```
-Direct Connection 
 192.169.82.74:27715
 ```
 ## Service Catalogue 
