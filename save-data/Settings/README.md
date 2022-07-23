@@ -1,5 +1,5 @@
 # Server Settings
-**Folders**/*Description*
+**Folders**/*Descriptions*
 > "Live" *Current server configuration files.*
 
 
