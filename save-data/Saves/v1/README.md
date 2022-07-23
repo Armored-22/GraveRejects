@@ -1,2 +1,1 @@
-# Grave Rejects World Save
-> *Updated once a week.*
+# Grave Rejects World Save Folder
