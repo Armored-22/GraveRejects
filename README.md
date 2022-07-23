@@ -19,7 +19,7 @@ See [Server Info.md](/Server%20Info.md) for more details.
 [![Vivox Enabled](https://github.com/Armored-22/GraveRejects/blob/main/Assets/vivox-enabled.png)](https://unity.com/products/vivox)
 ___
 
-# GraveRejects Updates
+# Updates
 
 ## PTS Update 2.1.0-pts
 ###### *(07/21/2022)*
@@ -69,7 +69,7 @@ ___
 ###### *(07/16/2022)*
 
 * **Castle Blood Drain**
-  > The rate in which your castle drains its blood has been increased from 3.5 to 3.75*
+  > The rate in which your castle drains its blood has been increased from *3.5* to **3.75**
 
 
 * **Castle Raiding**
@@ -78,7 +78,7 @@ ___
 
 
 * **New Player PvP Protection**
-  > This was increased from 1 hour to 2 hours.
+  > This was increased from *1 hour* to **2 hours**.
 
 
 * **Settings Corrected**
@@ -94,7 +94,7 @@ ___
 ###### *(07/15/2022)*
 
 * **Castle Blood Drain**
-  > The rate in which your castle drains its blood has been increased from 0.5 to 1.5<br>
+  > The rate in which your castle drains its blood has been increased from *0.5* to **1.5**<br>
   > *This was far too low with the current stack size limits.*<br>
 
 * **Mastery Decay**
