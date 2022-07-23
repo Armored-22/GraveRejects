@@ -1,6 +1,6 @@
 # Up-to-date Server &amp; Mod files
 
-**Folders**/*Description*
+**Folders**/*Descriptions*
 > "**Assets**" *Random assets for this repository.*
 
 
