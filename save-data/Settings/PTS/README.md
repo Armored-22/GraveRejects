@@ -1,1 +1,1 @@
-# Private Test Server configuration files.
+# **Private Test Server** *(PTS)* server configuration files.
