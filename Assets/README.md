@@ -1,4 +1,4 @@
-# Random assets for this repository.
+# Random assets for this repository
 
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣠⣤⣤⣤⣤⣤⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
