@@ -1,5 +1,5 @@
 # World Saves & Server configuration files
-**Folders**/*Description*
+**Folders**/*Descriptions*
 > "Saves" *World saves.*
 
 
