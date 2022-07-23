@@ -31,13 +31,13 @@
   "CastleMinimumDistanceInFloors": 2,
   "ClanSize": 3,
   "BloodDrainModifier": 1,
-  "DurabilityDrainModifier": 0.25,
+  "DurabilityDrainModifier": 0.5,
   "GarlicAreaStrengthModifier": 1,
   "HolyAreaStrengthModifier": 1,
   "SilverStrengthModifier": 1,
   "SunDamageModifier": 1,
   "CastleDecayRateModifier": 1,
-  "CastleBloodEssenceDrainModifier": 3.75,
+  "CastleBloodEssenceDrainModifier": 4.25,
   "CastleSiegeTimer": 420,
   "CastleUnderAttackTimer": 60,
   "AnnounceSiegeWeaponSpawn": true,
@@ -50,8 +50,8 @@
   "RefinementRateModifier": 2,
   "ResearchTimeModifier": 1,
   "DismantleResourceModifier": 1,
-  "ServantConvertRateModifier": 2,
-  "RepairCostModifier": 0.25,
+  "ServantConvertRateModifier": 2.5,
+  "RepairCostModifier": 0.5,
   "Death_DurabilityFactorLoss": 0,
   "Death_DurabilityLossFactorAsResources": 0.6,
   "StarterEquipmentId": 0,
@@ -270,12 +270,12 @@
     "ReviveCancelDelay": 5
   },
   "UnitStatModifiers_Global": {
-    "MaxHealthModifier": 1,
-    "PowerModifier": 1
+    "MaxHealthModifier": 1.25,
+    "PowerModifier": 1.25
   },
   "UnitStatModifiers_VBlood": {
-    "MaxHealthModifier": 1,
-    "PowerModifier": 1
+    "MaxHealthModifier": 1.45,
+    "PowerModifier": 1.45
   },
   "EquipmentStatModifiers_Global": {
     "MaxEnergyModifier": 1,
@@ -391,10 +391,10 @@
       "EndMinute": 35
     },
     "VSCastleWeekendTime": {
-      "StartHour": 10,
+      "StartHour": 13,
       "StartMinute": 0,
-      "EndHour": 1,
-      "EndMinute": 0
+      "EndHour": 13,
+      "EndMinute": 05
     }
   }
 }
