@@ -5,11 +5,11 @@
 
 
 
-> "**BepInEx**" *All of the mod configuration files.*
+> "**BepInEx**" *Mods & their configuration files.*
 
 
 
-> "**save-data**" *All of the server configuration files.*
+> "**save-data**" *World saves & server configuration files.*
 
 *Files are modified here, then pushed to the server. The settings here may not reflect current Live/PTS settings until the server is updated/restarted.*
 
