@@ -1,2 +1,6 @@
-# BepinEx main folder.
-# Mod configuration folder.
+# Main Mod Folder.
+**Folders**/*Description*
+> "config" *Mod configuration files.*
+
+
+> "plugins" *Mods.*
