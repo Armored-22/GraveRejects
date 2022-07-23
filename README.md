@@ -99,7 +99,7 @@ ___
 
 * **Mastery Decay**
   > Decay rate when offline will be slightly lower.<br>
-  > Changed from 0.001% per 1 minute to 0.001% per 2.5 minutes.
+  > Changed from *0.001% per 1 minute* to **0.001% per 2.5 minutes**.
 
   *Example;*<br>
   > For every 1 hour offline, you will lose 0.024% in all masteries<br>
