@@ -11,7 +11,8 @@
 
 > "**save-data**" *World saves & server configuration files.*
 
-*Files are modified here, then pushed to the server. The settings here may not reflect current Live/PTS settings until the server is updated/restarted.*
+*Files are modified here, then pushed to the server. The settings here may not reflect current Live/PTS settings until the server is updated/restarted.* <br><br>
+See [Server Info.md](/Server%20Info.md) for more details.
 
 [![Join Discord](https://github.com/Armored-22/GraveRejects/blob/main/Assets/join-us-on-discord.png)](https://discord.gg/pTuSasMxR5)
 [![Battlemetrics](https://github.com/Armored-22/GraveRejects/blob/main/Assets/gr-battlemetrics-small.png)](https://www.battlemetrics.com/servers/vrising/15590166)
