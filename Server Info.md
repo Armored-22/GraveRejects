@@ -28,7 +28,8 @@ Direct Connection
 * Teleport Bound Items: `False/True (Cannot teleport items during castle raids)`
 * Relic Spawn Type: `Plentiful (Multiple instances of Relics can exist)`
 
-**For all other settings see;** [ServerGameSettings.json](save-data/Settings/Live/ServerGameSettings.json)
+**For all other settings see;** [ServerGameSettings.json](save-data/Settings/Live/ServerGameSettings.json) <br>
+`Location: GraveRejects/save-data/Settings/Live/ServerGameSettings.json`
 
 ## Server Features (Mods)
 * RPG Mods
