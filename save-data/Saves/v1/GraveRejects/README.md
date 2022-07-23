@@ -1,2 +1,4 @@
 # Grave Rejects World Save
-> *Updated once a week. I keep 7 days worth of world saves on server host.*
+> *Updated once a week. Includes 7 days worth of saves.*
+> *This is not a public file and only serves as a backup if bad things happen.*
+> *Do not bother asking for the password.*
