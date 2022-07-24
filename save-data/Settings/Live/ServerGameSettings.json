@@ -1,6 +1,6 @@
 {
   "GameModeType": "PvP",
-  "CastleDamageMode": "Never",
+  "CastleDamageMode": "TimeRestricted",
   "SiegeWeaponHealth": "Normal",
   "PlayerDamageMode": "Always",
   "CastleHeartDamageMode": "CanBeDestroyedOnlyWhenDecaying",
@@ -31,7 +31,7 @@
   "CastleMinimumDistanceInFloors": 2,
   "ClanSize": 3,
   "BloodDrainModifier": 1,
-  "DurabilityDrainModifier": 0.25,
+  "DurabilityDrainModifier": 0.5,
   "GarlicAreaStrengthModifier": 1,
   "HolyAreaStrengthModifier": 1,
   "SilverStrengthModifier": 1,
@@ -50,8 +50,8 @@
   "RefinementRateModifier": 2,
   "ResearchTimeModifier": 1,
   "DismantleResourceModifier": 1,
-  "ServantConvertRateModifier": 2,
-  "RepairCostModifier": 0.25,
+  "ServantConvertRateModifier": 2.5,
+  "RepairCostModifier": 0.5,
   "Death_DurabilityFactorLoss": 0,
   "Death_DurabilityLossFactorAsResources": 0.6,
   "StarterEquipmentId": 0,
@@ -243,7 +243,7 @@
         "DefaultUnlocked": false
       }
     ],
-  "UnlockedAchievements": [],
+  "UnlockedAchievements": [560247139],
   "UnlockedResearchs": [
    
    
@@ -391,9 +391,9 @@
       "EndMinute": 0
     },
     "VSCastleWeekendTime": {
-      "StartHour": 10,
+      "StartHour": 16,
       "StartMinute": 0,
-      "EndHour": 1,
+      "EndHour": 22,
       "EndMinute": 0
     }
   }
