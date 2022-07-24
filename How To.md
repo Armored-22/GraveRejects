@@ -25,7 +25,7 @@
 
 ![This is an image](https://github.com/Armored-22/GraveRejects/blob/main/Assets/How%20To/3.png)
 
-4) **Now click on the "ServerGameSettings.json" file, in the red box.
+4) **Now click on the "ServerGameSettings.json" file, in the red box.**
     > *ou can view all the current server settings by scrolling down the page.*
 
 ![This is an image](https://github.com/Armored-22/GraveRejects/blob/main/Assets/How%20To/4.png)
