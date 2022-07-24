@@ -37,12 +37,12 @@
 
 ![This is an image](https://github.com/Armored-22/GraveRejects/blob/main/Assets/How%20To/5.png)
 
-6) **Lastly, click on the latest or any past change entries.**
+6) **Lastly, click on the latest update or any past updates.**
     > *You can view all the changes made to this file.* <br>
     > *You can do this for any file in the repository.*
 
 ![This is an image](https://github.com/Armored-22/GraveRejects/blob/main/Assets/How%20To/6.png)
 
-You can now view the "ServerGameSettings.json" and all the changes made in this entry. 
+You can now view the "ServerGameSettings.json" and all the changes made in this entry. <br>
     > The items highlighted in Red = old values. <br>
     > The items highlighted in Green = New values.
