@@ -1,0 +1,16 @@
+{
+  "help": 0,
+  "pvp": 0,
+  "ping": 0,
+  "heat": 0,
+  "waypoint": 100,
+  "teleport": 100,
+  "experience": 0,
+  "mastery": 0,
+  "heat_args": 100,
+  "experience_args": 100,
+  "mastery_args": 100,
+  "waypoint_args": 100,
+  "autorespawn_args": 100,
+  "pvp_args": 100
+}
