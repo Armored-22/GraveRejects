@@ -11,9 +11,9 @@
 `.kit` - When kits are available <br>
 
 # Check file changes in GitHub
-*For this example we will use the "ServerGameSettings.json" file.*
+*For this example, we will use the "ServerGameSettings.json" file.*
 
-1) **First click on the "save-data" folder, in the red box.** 
+1) **First, click on the "save-data" folder, in the red box.** 
     > *Note that the middle section displays the latest file that was edited.*
 
 ![This is an image](https://github.com/Armored-22/GraveRejects/blob/main/Assets/How%20To/1.png)
@@ -37,12 +37,12 @@
 
 ![This is an image](https://github.com/Armored-22/GraveRejects/blob/main/Assets/How%20To/5.png)
 
-6) **Lastly click on the latest or any past change entrys.**
-    > *You can view all the change for this file.*
+6) **Lastly, click on the latest or any past change entries.**
+    > *You can view all the changes done to this file.*
     > *You can do this for any file in the repository.*
 
 ![This is an image](https://github.com/Armored-22/GraveRejects/blob/main/Assets/How%20To/6.png)
 
 You can now view the "ServerGameSettings.json" and all the changes made in this entry. 
-    > Items highlighted in Red = old values. <br>
-    > Items highlighted in Green = New values.
+    > The items highlighted in Red = old values. <br>
+    > The items highlighted in Green = New values.
