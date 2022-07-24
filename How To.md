@@ -1,4 +1,4 @@
-# Server Chat Commands
+# Chat Commands
 
 *Type in any of the* `commands` *in the in-game chat box.*
 
