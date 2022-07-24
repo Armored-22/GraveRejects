@@ -38,7 +38,7 @@
 ![This is an image](https://github.com/Armored-22/GraveRejects/blob/main/Assets/How%20To/5.png)
 
 6) **Lastly, click on the latest or any past change entries.**
-    > *You can view all the changes done to this file.*
+    > *You can view all the changes made to this file.* <br>
     > *You can do this for any file in the repository.*
 
 ![This is an image](https://github.com/Armored-22/GraveRejects/blob/main/Assets/How%20To/6.png)
