@@ -20,8 +20,80 @@ See [Server Info.md](/Server%20Info.md) for more details.
 ___
 
 # Updates
+## Live Update 2.5.2
+###### *(07/24/2022)*
 
-## PTS Update 2.0.0-pts
+* **Notify**
+  > Server message when a user connects or disconnects from the server and when a player kills a V Blood boss.
+
+
+* **Random Encounters**<br>
+  > Will spawn a random NPC near a random online player at random intervals, the player wins a random item reward if the NPC is killed within the given time limit.
+
+
+* **Lead A Horse To Water**
+  > Lets your horses drink water from [Water Wells](https://gaming.tools/v-rising/blueprints/tm_liquidstation_water_well01)
+
+
+* **Quick Brazier**
+  > Braziers will automatically turn on when day starts, and turn off when night starts. Only for online players/clans. <br>
+  
+  
+  > In order to use 'on/off' keybinding and to auto fill/split with bones from your inventory you need the 'QuickBrazier' mod.<br>
+  
+  
+  > The default keybinding is 'L'
+
+
+* **Quick Stash**
+  > This requires the [QuickStash](https://v-rising.thunderstore.io/package/Elmegaard/QuickStash/) mod on your end to function.<br>
+  
+  
+  > Uses ‘Compulsively Count’ on all nearby stashes with 1 click.<br>
+  
+  
+  > Default keybinding is 'G'
+  
+* **Server changes;**
+> Weekend raid times were added, 4:00PM to 10:00PM UTC-7
+
+
+> Durability Drain Modifier was increased from 0.25 to 0.5
+
+
+> Repair Cost Modifier was increased from 0.25 to 0.5
+
+
+> Servant Convert Rate Modifier was increased from 2 to 2.5
+
+
+> The "Getting Ready for the Hunt" achievement is unlocked by default.
+
+* **Mod changes;**
+> Changes to the Random Encounters item list. (Thank you Scythul)
+
+
+> Changed the new user login message in the Notify mod.
+
+
+> Updated RPGMod to most recent update.
+
+**Mod List**
+
+  > [RPGMods](https://v-rising.thunderstore.io/package/RPGMods/RPGMods/), 
+  > By: Kamikaze<br>
+  > [Notify](https://v-rising.thunderstore.io/package/Trodi/Notify/), 
+  > By: Trodi<br>
+  > [RandomEncounters](https://v-rising.thunderstore.io/package/adainrivers/RandomEncounters/), 
+  > By: adainrivers<br>
+  > [LeadAHorseToWater](https://v-rising.thunderstore.io/package/deca/LeadAHorseToWater/), 
+  > By: Deca<br>
+  > [QuickBrazier](https://v-rising.thunderstore.io/package/Harminded/QuickBrazier/), 
+  > By: Harminded<br>
+  > [QuickStash](https://v-rising.thunderstore.io/package/Elmegaard/QuickStash/), 
+  > By: Elmegaard
+
+## PTS Update 2.5.0-pts
 ###### *(07/21/2022)*
 
 * **Notify**
@@ -51,18 +123,19 @@ ___
 
 **Mod List**
 
-  > RPGMods, 
+  > [RPGMods](https://v-rising.thunderstore.io/package/RPGMods/RPGMods/), 
   > By: Kamikaze<br>
-  > Notify, 
+  > [Notify](https://v-rising.thunderstore.io/package/Trodi/Notify/), 
   > By: Trodi<br>
-  > RandomEncounters, 
+  > [RandomEncounters](https://v-rising.thunderstore.io/package/adainrivers/RandomEncounters/), 
   > By: adainrivers<br>
-  > LeadAHorseToWater, 
+  > [LeadAHorseToWater](https://v-rising.thunderstore.io/package/deca/LeadAHorseToWater/), 
   > By: Deca<br>
-  > QuickBrazier, 
+  > [QuickBrazier](https://v-rising.thunderstore.io/package/Harminded/QuickBrazier/), 
   > By: Harminded<br>
-  > QuickStash, 
+  > [QuickStash](https://v-rising.thunderstore.io/package/Elmegaard/QuickStash/), 
   > By: Elmegaard
+  
 ___
 
 ## Live Update 1.2.1
@@ -86,8 +159,9 @@ ___
   
 **Mod List**
 
-  > RPGMods, 
-  > By: Kamikaze<br>
+  > [RPGMods](https://v-rising.thunderstore.io/package/RPGMods/RPGMods/), 
+  > By: Kamikaze
+  
 ___
 
 ## Live Update 1.1.0 
@@ -111,5 +185,5 @@ ___
 
 **Mod List**
 
-  > RPGMods, 
-  > By: Kamikaze<br>
+  > [RPGMods](https://v-rising.thunderstore.io/package/RPGMods/RPGMods/), 
+  > By: Kamikaze
