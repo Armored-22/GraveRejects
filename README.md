@@ -39,7 +39,7 @@ ___
   > Braziers will automatically turn on when day starts, and turn off when night starts. Only for online players/clans. <br>
   
   
-  > In order to use 'on/off' keybinding and to auto fill/split with bones from your inventory you need the 'QuickBrazier' mod.<br>
+  > In order to use 'on/off' keybinding and to auto fill/split with bones from your inventory you need the [QuickBrazier](https://v-rising.thunderstore.io/package/Harminded/QuickBrazier/) mod.<br>
   
   
   > The default keybinding is 'L'
@@ -112,7 +112,7 @@ ___
   > Braziers will automatically turn on when day starts, and turn off when night starts. Only for online players/clans.
 
 
-  > In order to use 'on/off' keybinding and to auto fill/split with bones from your inventory you need the [QuickBrazier(https://v-rising.thunderstore.io/package/Harminded/QuickBrazier/) mod.<br>
+  > In order to use 'on/off' keybinding and to auto fill/split with bones from your inventory you need the [QuickBrazier](https://v-rising.thunderstore.io/package/Harminded/QuickBrazier/) mod.<br>
   > The default keybinding is 'L'
 
 
