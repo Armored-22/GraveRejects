@@ -1,5 +1,7 @@
 # Grave Rejects World Save
-> *Updated once a week. Includes 7 days worth of saves.*
+> *The Server undergoes an automatic daily backup at 12:00AM UTC-7*
+
+
 > *This is not a public file.*
 
 
