@@ -1,1 +1,1 @@
-# Grave Rejects World Save Folder (Version 1)
+# Grave Rejects World Save Folder
