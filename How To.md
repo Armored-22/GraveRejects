@@ -14,7 +14,7 @@
 *For this example, we will use the "ServerGameSettings.json" file.*
 
 1) **First, click on the "save-data" folder, in the red box.** 
-    > *Note that the middle section displays the latest file that was edited.*
+    > *Note that the middle section displays the latest file that was edited. If this is the file you wish to view ignore below steps and click the link.*
 
 ![This is an image](https://github.com/Armored-22/GraveRejects/blob/main/Assets/How%20To/1.png)
 
