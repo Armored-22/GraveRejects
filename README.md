@@ -1,4 +1,4 @@
-# Up-to-date Server &amp; Mod files
+# Up-to-date Server &amp; Mod files / Scroll down for server update log
 
 **Folders**/*Descriptions*
 > "**Assets**" *Random assets for this repository.*
