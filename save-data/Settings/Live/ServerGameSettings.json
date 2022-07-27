@@ -30,7 +30,7 @@
   "PvPVampireRespawnModifier": 0.25,
   "CastleMinimumDistanceInFloors": 2,
   "ClanSize": 3,
-  "BloodDrainModifier": 0.85,
+  "BloodDrainModifier": 0.75,
   "DurabilityDrainModifier": 0.5,
   "GarlicAreaStrengthModifier": 1,
   "HolyAreaStrengthModifier": 1,
