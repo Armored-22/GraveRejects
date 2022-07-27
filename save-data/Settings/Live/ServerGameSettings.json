@@ -27,7 +27,7 @@
   "MaterialYieldModifier_Global": 1,
   "BloodEssenceYieldModifier": 1,
   "JournalVBloodSourceUnitMaxDistance": 25.0,
-  "PvPVampireRespawnModifier": 0.5,
+  "PvPVampireRespawnModifier": 0.25,
   "CastleMinimumDistanceInFloors": 2,
   "ClanSize": 3,
   "BloodDrainModifier": 0.85,
