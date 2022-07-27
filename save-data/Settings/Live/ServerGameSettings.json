@@ -59,17 +59,17 @@
   "VBloodUnitSettings": [
       {
         "UnitId": -1905691330,
-        "UnitLevel": 16,
+        "UnitLevel": 12,
         "DefaultUnlocked": false
       },
       {
         "UnitId": 1124739990,
-        "UnitLevel": 20,
+        "UnitLevel": 16,
         "DefaultUnlocked": false
       },
       {
         "UnitId": 2122229952,
-        "UnitLevel": 20,
+        "UnitLevel": 18,
         "DefaultUnlocked": false
       },
       {
