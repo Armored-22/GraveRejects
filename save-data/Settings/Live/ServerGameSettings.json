@@ -371,7 +371,7 @@
     "CastleLimit": 1
   },
   "PlayerInteractionSettings": {
-    "TimeZone": "Local",
+    "TimeZone": "UTC-7",
     "VSPlayerWeekdayTime": {
       "StartHour": 0,
       "StartMinute": 0,
