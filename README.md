@@ -21,6 +21,27 @@ See [Server Info.md](/Server%20Info.md) for more details.
 ___
 
 # Updates
+## Live Update 2.5.4
+###### *(07/26/2022)*
+
+**Server Changes**
+
+* Reduced the respawn timer on PvP death from **1** to **0.25**
+* Reduced the 'Blood Drain' from **1** to **0.75**
+* Reduced the level of [Alpha Wolf](https://gaming.tools/v-rising/npcs/char_wildlife_wolf_vblood) from **16** to **12**
+* Reduced the level of [Keely the Frost Archer](https://gaming.tools/v-rising/npcs/char_bandit_deadeye_frostarrow_vblood) from **20** to **16**
+* Reduced the level of [Rufus the Foreman](https://gaming.tools/v-rising/npcs/char_bandit_foreman_vblood) from **20** to **18**
+* Added time zone **UTC-7** to server settings
+
+**Mod Changes**
+
+* Updated the 'Random Encounter' spawn list
+
+**Changes made for testing purposes**
+
+* Increased the level of 'Solarus the Immaculate' from **80** to **90**
+* Re-enabled the 'LeadAHorseToWater' mod for testing (This server works with the mod community to help improve their mods)
+
 ## Live Update 2.5.2
 ###### *(07/24/2022)*
 
