@@ -60,8 +60,6 @@ ___
   > By: Trodi<br>
   > [RandomEncounters](https://v-rising.thunderstore.io/package/adainrivers/RandomEncounters/), 
   > By: adainrivers<br>
-  > [LeadAHorseToWater](https://v-rising.thunderstore.io/package/deca/LeadAHorseToWater/), 
-  > By: Deca<br>
   > [QuickBrazier](https://v-rising.thunderstore.io/package/Harminded/QuickBrazier/), 
   > By: Harminded<br>
   > [QuickStash](https://v-rising.thunderstore.io/package/Elmegaard/QuickStash/), 
