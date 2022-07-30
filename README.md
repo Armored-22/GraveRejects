@@ -21,6 +21,52 @@ See [Server Info.md](/Server%20Info.md) for more details.
 ___
 
 # Updates
+## Live Update 2.6.2
+###### *(07/30/2022)*
+
+**NPCs & V Boss Changes**
+
+* Health increased from **1** to **1.5**
+* Damage increased from **1** to **1.25**
+
+**Mastery System**
+
+* Masteries will no longer decay when offline.
+* This change was done to help remove the power gap.
+
+**Mod Updates** *(By the creators)*
+
+*RPGMods v0.3.2*
+
+* Adjustment in EXP System so player don't get more exp if they've reached the max level cap.
+* Adjustment in EXP gain for killing lower level mobs.
+* Adjusted bonus EXP gain for killing higher level mob to be capped at 10 level higher max.
+* User with sufficient permission for waypoint_args will no longer be restricted by the waypoint limit.
+* Reduced the required heat for ambush to occur.
+* Fixed PvP Debuff punishment not applying correctly.
+
+*Notify v1.2.0*
+
+* Added that users can enable/disable VBlood kills via chat command.
+*Ignore VBlood Announce: !notify ignore vbloodannounce
+* Unignore VBlood Announce: !notify unignore vbloodannounce
+* Added command to help: !notify help
+
+**Mod List**
+
+  > [RPGMods](https://v-rising.thunderstore.io/package/RPGMods/RPGMods/), 
+  > By: Kamikaze<br>
+  > [Notify](https://v-rising.thunderstore.io/package/Trodi/Notify/), 
+  > By: Trodi<br>
+  > [RandomEncounters](https://v-rising.thunderstore.io/package/adainrivers/RandomEncounters/), 
+  > By: adainrivers<br>
+  > [LeadAHorseToWater](https://v-rising.thunderstore.io/package/deca/LeadAHorseToWater/), 
+  > By: Deca<br>
+  > [QuickBrazier](https://v-rising.thunderstore.io/package/Harminded/QuickBrazier/), 
+  > By: Harminded<br>
+  > [QuickStash](https://v-rising.thunderstore.io/package/Elmegaard/QuickStash/), 
+  > By: Elmegaard
+
 ## Live Update 2.5.4
 ###### *(07/27/2022)*
 
