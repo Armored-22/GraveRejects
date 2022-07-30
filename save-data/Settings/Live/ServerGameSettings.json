@@ -17,7 +17,7 @@
   "InactivityKillEnabled": true,
   "InactivityKillTimeMin": 1800,
   "InactivityKillTimeMax": 1800,
-  "InactivityKillSafeTimeAddition": 1800,
+  "InactivityKillSafeTimeAddition": 0,
   "InactivityKillTimerMaxItemLevel": 84,
   "DisableDisconnectedDeadEnabled": true,
   "DisableDisconnectedDeadTimer": 60,
