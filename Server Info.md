@@ -18,7 +18,7 @@
 * Game Mode Type: `PvP`
 * Player Damage Mode: `Always`
 * PvP Protection Mode: `Long (2 Hours)`
-* Castle Damage Mode: `Time Restricted (Weekends Only)`
+* Castle Damage Mode: `Time Restricted` (Weekends Only) 4:00 PM to 10:00 PM `(UTC-7)`
 * Siege Weapon Health: `Normal`
 * Castle Heart Damage Mode: `Can Be Destroyed Only When Decaying`
 * Death Container Permission: `Anyone`
