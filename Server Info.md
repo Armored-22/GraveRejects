@@ -40,17 +40,17 @@
     > `Punishment System` Players who kill lower level players will apply a debuff that reduce player combat effeciency. <br>
 *-25% Physical & spell power* <br>
 *-15 Physical, spell, holy, and fire resistance*
-* Random Encounters
-    > Spawns a random NPC near a random online player at random intervals, and the player wins a random item reward if the NPC is killed within the given time limit.
-* Lead A Horse To Water
-    > Lets your horses drink water from [Water Well](https://gaming.tools/v-rising/blueprints/tm_liquidstation_water_well01).
-* Quick Brazier
-    > Braziers automatically turn on when day starts, and turn off when night starts. Only for online players/clans.
-* Quick Stash
-    > Use "compulsively count" to store items to all nearby stashes with 1 click. <br>
-    > You will need the [Quick Stash](https://v-rising.thunderstore.io/package/Elmegaard/QuickStash/) mod for this to work.
-* Notify
-    > Notifies when a user connects or disconnects from the server and when a player kills a VBlood boss.
+* ~~Random Encounters~~
+    > ~~Spawns a random NPC near a random online player at random intervals, and the player wins a random item reward if the NPC is killed within the given time limit.~~
+* ~~Lead A Horse To Water~~
+    > ~~Lets your horses drink water from [Water Well](https://gaming.tools/v-rising/blueprints/tm_liquidstation_water_well01).~~
+* ~~Quick Brazier~~
+    > ~~Braziers automatically turn on when day starts, and turn off when night starts. Only for online players/clans.~~
+* ~~Quick Stash~~
+    > ~~Use "compulsively count" to store items to all nearby stashes with 1 click. <br>~~
+    > ~~You will need the [Quick Stash](https://v-rising.thunderstore.io/package/Elmegaard/QuickStash/) mod for this to work.~~
+* ~~Notify~~
+    > ~~Notifies when a user connects or disconnects from the server and when a player kills a VBlood boss.~~
 
 
 
