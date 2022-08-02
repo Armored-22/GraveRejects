@@ -34,7 +34,7 @@
 * RPG Mods
     > `Experience System` Gear Level system replaced with experience system <br>
     > `Weapon Mastery` Mastering a weapon will give extra bonus to stats. <br>
-    > `Mastery Decay` Mastery will decay per minute passed while offline. <br>
+    > `Mastery Decay` ~~Mastery will decay per minute passed while offline.~~ <br>
     > `HunterHunted System` Faction NPCs you kill contribute to a heat system. <br>
     > `PvP System` Serverwide PvP kill announcements. Kill/Death record, and a ladder board for the Top 5 players. <br>
     > `Punishment System` Players who kill lower level players will apply a debuff that reduce player combat effeciency. <br>
@@ -47,7 +47,7 @@
 * ~~Quick Brazier~~
     > ~~Braziers automatically turn on when day starts, and turn off when night starts. Only for online players/clans.~~
 * ~~Quick Stash~~
-    > ~~Use "compulsively count" to store items to all nearby stashes with 1 click. <br>~~
+    > ~~Use "compulsively count" to store items to all nearby stashes with 1 click.~~ <br>
     > ~~You will need the [Quick Stash](https://v-rising.thunderstore.io/package/Elmegaard/QuickStash/) mod for this to work.~~
 * ~~Notify~~
     > ~~Notifies when a user connects or disconnects from the server and when a player kills a VBlood boss.~~
