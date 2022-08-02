@@ -21,6 +21,14 @@ See [Server Info.md](/Server%20Info.md) for more details.
 ___
 
 # Updates
+## Live Update 2.7.0
+###### *(08/02/2022)*
+
+Updated RPGMods to version 1.0.2 from 0.3.2
+
+*Disabled all other mods temporarily to work out server instability issues.*
+
+
 ## Live Update 2.6.2
 ###### *(07/30/2022)*
 
