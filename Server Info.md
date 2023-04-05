@@ -6,7 +6,7 @@
 ```
 ## Service Catalogue 
 
-* Web Portal: https://sites.google.com/view/graverejects 
+* Web Portal: <del>https://sites.google.com/view/graverejects</del>
 * Discord: https://discord.gg/pTuSasMxR5
 * Reddit: https://www.reddit.com/r/GraveRejects/
 * Steam Group: https://steamcommunity.com/groups/GraveRejects
